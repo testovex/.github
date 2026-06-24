@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/testovex/.github/profile/main/testovex-logo-400.png" alt="Testovex" width="80" height="80" />
+<img src="https://raw.githubusercontent.com/testovex/.github/main/profile/testovex-logo-400.png" alt="Testovex" width="80" height="80" />
 
 # Testovex
 
